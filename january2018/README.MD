@@ -1,5 +1,5 @@
 
-#Aufgabe: Passwortgenerator
+# Aufgabe: Passwortgenerator
 
 Damit man sich Passwörter gut merken kann, ohne das diese sich leicht erraten lassen, kann man Passwörter aus Merksätzen bilden. Wir wollen nach folgenden Regeln Passwörter aus Sätzen bilden:
 Das Passwort wird als Folge der ersten Zeichen eines jeden Wortes im Satz gebildet.
@@ -16,9 +16,8 @@ Testen Sie ihr Programm mit den folgenden Eingaben:
     “Ein Passwort ist nur so gut , wie sein geheimer Platz .” (ergibt EPinsg,wsgP.12)
     “Selber programmieren ist überraschend !” (Spiü!5)
 
-#Abnahmekriterien
+# Abnahmekriterien
 
     Coding Dojo Ziel ist JUnit --> Anzahl der JUnit Tests
     Ein Testsatz wird am Ende bereitgestellt und generiertes Passwort muss mit dem erwarteten übereinstimmen
     Source Code muss dokumentiert werden --> Umfang von Inline Comments
-
