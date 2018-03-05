@@ -1,3 +1,7 @@
+#Copyright
+ * @author Max Crone
+ * @since 15-9-2016.
+ 
 # Aufgabe Tresor Code
 
 Ein Tresor ist mit einem 4-Stelligen Code geschützt. Der Code ist  per Zufallszahl Generator  erzeugt. Der User soll den Code stellenweise erraten.   Nach jedem Versuch soll der User darüber informiert werden, der wievielte Versuch es war, ob er richtig oder falsch liegt, und wenn er falsch liegt ob die gesuchte Zahl grösser oder kleiner als die vom User eingegebene ist. Erratene Zahlen werden gespeichert und ausgegeben.  Falls an einer Stelle die Zahl nicht erraten wurde, dann muss ein X ausgegeben werden. Man hat 3 Versuche pro Zahl. User wird per Logging in der Console informiert. Logging Nachrichten werden farblich in gestaltet.
