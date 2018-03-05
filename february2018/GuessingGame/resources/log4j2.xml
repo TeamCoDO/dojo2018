@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Appenders>
+
+		<Console name="ConsoleAppender" target="SYSTEM_OUT" follow="true">
+			<PatternLayout pattern="%d{${LOG_DATEFORMAT_PATTERN:-yyyy-MM-dd HH:mm:ss}} 
+				%highlight{%d [%t] %-5level: %msg%n%throwable}{FATAL=red, ERROR=red, WARN=yellow, 
+				INFO=white, DEBUG=green, TRACE=blue}"/>
+
+
+		</Console>
+	</Appenders>
+
+	<Loggers>
+		<Root level="all" additivity="false">
+			<AppenderRef ref="ConsoleAppender" />
+		</Root>
+	</Loggers>
+</Configuration>
