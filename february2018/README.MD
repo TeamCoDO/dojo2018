@@ -1,7 +1,7 @@
 #Copyright
-  @author Max Crone
-  @since 15-9-2016.
-  @source https://gist.github.com/Vogeltak
+  * @author Max Crone
+  * @since 15-9-2016.
+  * @source https://gist.github.com/Vogeltak
  
 # Aufgabe Tresor Code
 
