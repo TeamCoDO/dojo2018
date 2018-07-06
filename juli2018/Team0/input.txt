@@ -1,0 +1,5 @@
+Name;Strasse;Ort;Alter
+Peter Pan;Am Hang 5;12345 Einsam;42
+Maria Schmitz;Kölner Straße 45;50123 Köln;43
+Paul Meier;Münchner Weg 1;87654 München;65
+Ruprecht Knecht;Am kalten Nordpol 1;NOR-5562 Nordpolen
